@@ -10567,9 +10567,9 @@ a.button {
     margin: 0 auto;
     margin-bottom: 30px; }
   .mm-bglogo .spinner {
-    color: #ffffff;
-    stroke: #ffffff;
-    fill: #ffffff; }
+    color: #0070ff;
+    stroke: #0070ff;
+    fill: #0070ff; }
 
 /**
  * Styles revert.
