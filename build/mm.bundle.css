@@ -3977,7 +3977,7 @@ a.subdued {
       background-image: linear-gradient(180deg, #394e00, #394e00 50%, transparent 50%); }
   .bar.bar-energized {
     border-color: #f7a304;
-    background-color: #fbad1a;
+    background-color: #1aa2fb;
     background-image: linear-gradient(0deg, #f7a304, #f7a304 50%, transparent 50%);
     color: #fff; }
     .bar.bar-energized .title {
@@ -4223,7 +4223,7 @@ a.subdued {
 
 .bar-energized .button {
   border-color: #f7a304;
-  background-color: #fbad1a;
+  background-color: #1aa2fb;
   color: #fff; }
   .bar-energized .button:hover {
     color: #fff;
@@ -4518,7 +4518,7 @@ a.subdued {
 .tabs-energized > .tabs,
 .tabs.tabs-energized {
   border-color: #f7a304;
-  background-color: #fbad1a;
+  background-color: #1aa2fb;
   background-image: linear-gradient(0deg, #f7a304, #f7a304 50%, transparent 50%);
   color: #fff; }
   .tabs-energized > .tabs .tab-item .badge, .tabs-energized > .tabs .tab-item .mma-messages-date span, .mma-messages-date .tabs-energized > .tabs .tab-item span, .tabs-energized > .tabs .tab-item
@@ -4534,7 +4534,7 @@ a.subdued {
   .tabs.tabs-energized .tab-item .mma-chat-notice span, .mma-chat-notice
   .tabs.tabs-energized .tab-item span {
     background-color: #fff;
-    color: #fbad1a; }
+    color: #1aa2fb; }
 
 .tabs-royal > .tabs,
 .tabs.tabs-royal {
@@ -4757,7 +4757,7 @@ a.subdued {
   top: 4%; }
 
 .tabs-striped.tabs-energized .tabs {
-  background-color: #fbad1a; }
+  background-color: #1aa2fb; }
 
 .tabs-striped.tabs-energized .tab-item {
   color: rgba(255, 255, 255, 0.6);
@@ -4859,7 +4859,7 @@ a.subdued {
   background-image: none; }
 
 .tabs-striped.tabs-background-energized .tabs {
-  background-color: #fbad1a;
+  background-color: #1aa2fb;
   background-image: none; }
 
 .tabs-striped.tabs-background-royal .tabs {
@@ -5011,8 +5011,8 @@ a.subdued {
     opacity: 0.6; }
   .tabs-striped.tabs-color-energized .tab-item.tab-item-active, .tabs-striped.tabs-color-energized .tab-item.active, .tabs-striped.tabs-color-energized .tab-item.activated {
     margin-top: -2px;
-    color: #fbad1a;
-    border: 0 solid #fbad1a;
+    color: #1aa2fb;
+    border: 0 solid #1aa2fb;
     border-top-width: 2px; }
     .tabs-striped.tabs-color-energized .tab-item.tab-item-active .badge, .tabs-striped.tabs-color-energized .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .tabs-striped.tabs-color-energized .tab-item.tab-item-active span, .tabs-striped.tabs-color-energized .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
@@ -5106,7 +5106,7 @@ a.subdued {
 
 .tabs-background-energized .tabs,
 .tabs-background-energized > .tabs {
-  background-color: #fbad1a;
+  background-color: #1aa2fb;
   background-image: linear-gradient(0deg, #f7a304, #f7a304 50%, transparent 50%);
   border-color: #f7a304; }
 
@@ -5244,8 +5244,8 @@ a.subdued {
   .mma-messages-unreadfrom .tabs-color-energized .tab-item span, .tabs-color-energized .tab-item .mma-chat-notice span, .mma-chat-notice .tabs-color-energized .tab-item span {
     opacity: 0.6; }
   .tabs-color-energized .tab-item.tab-item-active, .tabs-color-energized .tab-item.active, .tabs-color-energized .tab-item.activated {
-    color: #fbad1a;
-    border: 0 solid #fbad1a; }
+    color: #1aa2fb;
+    border: 0 solid #1aa2fb; }
     .tabs-color-energized .tab-item.tab-item-active .badge, .tabs-color-energized .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .tabs-color-energized .tab-item.tab-item-active span, .tabs-color-energized .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
     .mma-messages-unreadfrom .tabs-color-energized .tab-item.tab-item-active span, .tabs-color-energized .tab-item.tab-item-active .mma-chat-notice span, .mma-chat-notice .tabs-color-energized .tab-item.tab-item-active span, .tabs-color-energized .tab-item.active .badge, .tabs-color-energized .tab-item.active .mma-messages-date span, .mma-messages-date .tabs-color-energized .tab-item.active span, .tabs-color-energized .tab-item.active
@@ -5350,11 +5350,11 @@ ion-tabs.tabs-striped.tabs-color-active-balanced .tab-item.tab-item-active, ion-
 ion-tabs.tabs-color-active-energized .tab-item {
   color: #3a3a3a; }
   ion-tabs.tabs-color-active-energized .tab-item.tab-item-active, ion-tabs.tabs-color-active-energized .tab-item.active, ion-tabs.tabs-color-active-energized .tab-item.activated {
-    color: #fbad1a; }
+    color: #1aa2fb; }
 
 ion-tabs.tabs-striped.tabs-color-active-energized .tab-item.tab-item-active, ion-tabs.tabs-striped.tabs-color-active-energized .tab-item.active, ion-tabs.tabs-striped.tabs-color-active-energized .tab-item.activated {
-  border-color: #fbad1a;
-  color: #fbad1a; }
+  border-color: #1aa2fb;
+  color: #1aa2fb; }
 
 ion-tabs.tabs-color-active-royal .tab-item {
   color: #3a3a3a; }
@@ -5586,7 +5586,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .tab-item.tab-item-active.tab-item-energized,
   .tab-item.active.tab-item-energized,
   .tab-item.activated.tab-item-energized {
-    color: #fbad1a; }
+    color: #1aa2fb; }
   .tab-item.tab-item-active.tab-item-royal,
   .tab-item.active.tab-item-royal,
   .tab-item.activated.tab-item-royal {
@@ -6166,7 +6166,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
     color: #fff; }
   .item.item-energized, .mm-grades-table .item-energized.itemcenter {
     border-color: #f7a304;
-    background-color: #fbad1a;
+    background-color: #1aa2fb;
     color: #fff; }
   .item.item-royal, .mm-grades-table .item-royal.itemcenter {
     border-color: #dd6c06;
@@ -6525,7 +6525,7 @@ a.item-content {
 
 .item-complex.item-energized > .item-content {
   border-color: #f7a304;
-  background-color: #fbad1a;
+  background-color: #1aa2fb;
   color: #fff; }
   .item-complex.item-energized > .item-content.active, .item-complex.item-energized > .item-content:active {
     border-color: #f7a304;
@@ -7299,7 +7299,7 @@ button.item.item-button-right,
 .mma-messages-date span.badge-energized,
 .mma-messages-unreadfrom span.badge-energized,
 .mma-chat-notice span.badge-energized {
-  background-color: #fbad1a;
+  background-color: #1aa2fb;
   color: #fff; }
 
 .tabs .tab-item .badge.badge-royal, .tabs .tab-item .mma-messages-date span.badge-royal, .mma-messages-date .tabs .tab-item span.badge-royal, .tabs .tab-item
@@ -8017,8 +8017,8 @@ ion-slides {
     stroke: #cb3d4d;
     fill: #cb3d4d; }
   .spinner.spinner-energized {
-    stroke: #fbad1a;
-    fill: #fbad1a; }
+    stroke: #1aa2fb;
+    fill: #1aa2fb; }
   .spinner.spinner-royal {
     stroke: #127ff9;
     fill: #127ff9; }
@@ -8059,7 +8059,7 @@ ion-slides {
   stop-color: #cb3d4d; }
 
 .spinner-spiral.spinner-energized .stop2 {
-  stop-color: #fbad1a; }
+  stop-color: #1aa2fb; }
 
 .spinner-spiral.spinner-royal .stop2 {
   stop-color: #127ff9; }
@@ -8467,12 +8467,12 @@ input[type="checkbox"][readonly] {
 
 .checkbox-energized input:before,
 .checkbox-energized .checkbox-icon:before {
-  border-color: #fbad1a; }
+  border-color: #1aa2fb; }
 
 .checkbox-energized input:checked:before,
 .checkbox-energized input:checked + .checkbox-icon:before {
-  background: #fbad1a;
-  border-color: #fbad1a; }
+  background: #1aa2fb;
+  border-color: #1aa2fb; }
 
 .checkbox-royal input:before,
 .checkbox-royal .checkbox-icon:before {
@@ -8653,8 +8653,8 @@ input:checked + .checkbox-icon:after {
   background-color: #5e8100; }
 
 .toggle.toggle-energized input:checked + .track {
-  border-color: #fbad1a;
-  background-color: #fbad1a; }
+  border-color: #1aa2fb;
+  background-color: #1aa2fb; }
 
 .toggle.toggle-royal input:checked + .track {
   border-color: #127ff9;
@@ -8802,7 +8802,7 @@ input:checked + .checkbox-icon:after {
   background-color: rgba(251, 173, 26, 0.5); }
 
 .toggle-small .toggle-energized input:checked + .track .handle {
-  background-color: #fbad1a; }
+  background-color: #1aa2fb; }
 
 .toggle-small .toggle-royal input:checked + .track {
   background-color: rgba(249, 128, 18, 0.5); }
@@ -8966,9 +8966,9 @@ input:checked + .checkbox-icon:after {
   .range.range-assertive input::-ms-fill-lower {
     background: #cb3d4d; }
   .range.range-energized input::-webkit-slider-thumb:before {
-    background: #fbad1a; }
+    background: #1aa2fb; }
   .range.range-energized input::-ms-fill-lower {
-    background: #fbad1a; }
+    background: #1aa2fb; }
   .range.range-royal input::-webkit-slider-thumb:before {
     background: #127ff9; }
   .range.range-royal input::-ms-fill-lower {
@@ -9092,7 +9092,7 @@ input:checked + .checkbox-icon:after {
   .item-select.item-balanced:after, .item-select.item-balanced .input-label {
     color: #fff; }
   .item-select.item-energized select {
-    background: #fbad1a;
+    background: #1aa2fb;
     color: #fff; }
   .item-select.item-energized:after, .item-select.item-energized .input-label {
     color: #fff; }
@@ -9334,7 +9334,7 @@ progress {
         color: #fff; }
   .button.button-energized {
     border-color: #0064d2;
-    background-color: #fbad1a;
+    background-color: #1aa2fb;
     color: #fff; }
     .button.button-energized:hover {
       color: #fff;
@@ -9346,16 +9346,16 @@ progress {
       border-color: transparent;
       background: none;
       box-shadow: none;
-      color: #fbad1a; }
+      color: #1aa2fb; }
     .button.button-energized.button-icon {
       border-color: transparent;
       background: none; }
     .button.button-energized.button-outline {
-      border-color: #fbad1a;
+      border-color: #1aa2fb;
       background: transparent;
-      color: #fbad1a; }
+      color: #1aa2fb; }
       .button.button-energized.button-outline.active, .button.button-energized.button-outline.activated {
-        background-color: #fbad1a;
+        background-color: #1aa2fb;
         box-shadow: none;
         color: #fff; }
   .button.button-royal {
@@ -10095,10 +10095,10 @@ a.button {
   border-color: #394e00; }
 
 .energized, a.energized {
-  color: #fbad1a; }
+  color: #1aa2fb; }
 
 .energized-bg {
-  background-color: #fbad1a; }
+  background-color: #1aa2fb; }
 
 .energized-border {
   border-color: #f7a304; }
@@ -11137,7 +11137,7 @@ mm-navigation-bar .col, mm-navigation-bar .mm-data-contents td, .mm-data-content
     margin-bottom: 0; }
 
 .mm-warning-card {
-  border-bottom: 3px solid #fbad1a;
+  border-bottom: 3px solid #1aa2fb;
   padding: 10px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   margin: 20px 10px;
@@ -11145,7 +11145,7 @@ mm-navigation-bar .col, mm-navigation-bar .mm-data-contents td, .mm-data-content
   position: relative;
   text-align: left; }
   .mm-warning-card i.icon:before {
-    color: #fbad1a;
+    color: #1aa2fb;
     font-size: 125%; }
   .mm-warning-card p:last-child {
     margin-bottom: 0; }
@@ -11214,7 +11214,7 @@ mm-navigation-bar .col, mm-navigation-bar .mm-data-contents td, .mm-data-content
 
 .mm-warning,
 .mm-warning-card-icon {
-  border-bottom: 3px solid #fbad1a;
+  border-bottom: 3px solid #1aa2fb;
   padding: 10px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   margin: 20px 10px;
@@ -11242,7 +11242,7 @@ mm-navigation-bar .col, mm-navigation-bar .mm-data-contents td, .mm-data-content
     left: 4px; }
     .mm-warning i.icon:before,
     .mm-warning-card-icon i.icon:before {
-      color: #fbad1a;
+      color: #1aa2fb;
       display: block;
       width: 24px;
       text-align: center; }
@@ -11341,11 +11341,11 @@ mm-navigation-bar .col, mm-navigation-bar .mm-data-contents td, .mm-data-content
     color: #cb3d4d; }
 
 .mm-warning-item {
-  border-bottom: 3px solid #fbad1a !important;
+  border-bottom: 3px solid #1aa2fb !important;
   padding-top: 12px;
   padding-bottom: 9px; }
   .mm-warning-item i.icon:before:not(.radio-icon) {
-    color: #fbad1a; }
+    color: #1aa2fb; }
 
 .item.item-howto, .mm-grades-table .item-howto.itemcenter,
 .mm-info-item {
@@ -14388,14 +14388,14 @@ ion-popover-view {
   background-color: #feefd1;
   border-style: solid;
   border-width: 2px;
-  border-color: #fbad1a;
+  border-color: #1aa2fb;
   position: absolute; }
 
 .mma-qtype-ddmarker-container span.wrongpart {
   background-color: #feefd1;
   border-style: solid;
   border-width: 2px;
-  border-color: #fbad1a;
+  border-color: #1aa2fb;
   padding: 5px;
   border-radius: 10px;
   filter: alpha(opacity=60);
