@@ -43,6 +43,8 @@
     <preference name="prerendered-icon" value="true" />
     <preference name="load-url-timeout" value="60000" />
     <preference name="AppendUserAgent" value="MoodleMobile" />
+    <preference name="compileSdkVersion" value="27" />
+    <preference name="buildToolsVersion" value="27.0.3" />
     <preference name="android-minSdkVersion" value="14" />
     <preference name="android-targetSdkVersion" value="27" />
     <preference name="android-installLocation" value="auto" />
