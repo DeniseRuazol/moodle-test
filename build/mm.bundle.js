@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<ejb-jar-bnd xmlns="http://websphere.ibm.com/xml/ns/javaee"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://websphere.ibm.com/xml/ns/javaee http://websphere.ibm.com/xml/ns/javaee/ibm-ejb-jar-bnd_1_2.xsd"
-	version="1.2">
-
- 	// (C) Copyright 2015 Martin Dougiamas
+// (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -71818,4 +71812,3 @@ angular.module('mm.core')
 }
 );
 
-</ejb-jar-bnd>
